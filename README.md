@@ -32,9 +32,13 @@ Analyzed an online retail dataset to uncover key insights about customer purchas
 
 ---
 
+##  Dataset Used
+  <a href = 'https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset'>Online retail dataset<a>
+  
+---
+
 ## 📂 Project Structure  
 - `Online_Retail_Analysis.ipynb` # Main analysis notebook
-- `Dataset` # The data set used
 - `README.md` # Project documentation
 
 ---
